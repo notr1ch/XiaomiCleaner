@@ -1,0 +1,15 @@
+REPLACE="
+/system/app/XiaomiServiceFramework
+/system/app/HybridPlatform
+/system/app/HybridAccessory
+/system/app/facebook-appmanager
+/system/app/Netflix_activation
+/system/app/XMSFKeeper
+/system/app/MiPicks
+/system/app/YouDaoEngine
+/system/app/AnalyticsCore
+/system/app/SoterService
+/system/app/Joyose
+/system/priv-app/facebook-installer
+/system/priv-app/facebook-services
+"
